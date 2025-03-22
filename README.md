@@ -37,7 +37,7 @@ Heart_Disease_Detection/
 │── requirements.txt        # List of dependencies
 
 
-## Setup Instructions
+### Setup Instructions
 1. Clone the repository:
 bash
 git clone <repository_url>
@@ -73,7 +73,7 @@ The dataset contains features such as:
 - Performance metrics: Accuracy, Precision, Recall, F1-Score.
 - Model saved using joblib for reuse.
 
-## Visualizations
+### Visualizations
 - Correlation Heatmap to identify important features.
 - Histograms and Boxplots to analyze data distribution.
 - Feature Importance Plot showing key predictors of heart disease.
