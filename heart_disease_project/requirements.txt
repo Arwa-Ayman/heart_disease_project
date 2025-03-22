@@ -63,7 +63,7 @@ pyzmq==26.2.1
 referencing==0.36.2
 requests==2.32.3
 rpds-py==0.23.1
-schema==0.6.8
+schema==0.6.7
 scikit-learn==1.6.1
 scikit-learn-extra==0.3.0
 scipy==1.15.2
